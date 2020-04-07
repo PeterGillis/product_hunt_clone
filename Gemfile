@@ -10,7 +10,6 @@ gem 'rails', '6.0.1'
 gem 'redis'
 
 gem 'autoprefixer-rails'
-gem 'faker'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'sassc-rails'
 gem 'simple_form'
